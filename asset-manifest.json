@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/applebite_ve/static/css/main.1f005222.css",
+    "main.js": "/applebite_ve/static/js/main.6f3fb367.js",
+    "index.html": "/applebite_ve/index.html",
+    "main.1f005222.css.map": "/applebite_ve/static/css/main.1f005222.css.map",
+    "main.6f3fb367.js.map": "/applebite_ve/static/js/main.6f3fb367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f005222.css",
+    "static/js/main.6f3fb367.js"
+  ]
+}
